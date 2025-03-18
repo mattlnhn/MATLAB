@@ -3,6 +3,7 @@
 % Create figure with custom set of default properties
 %
 % Copyright (c) 2025 Matt Lenahan.
+% BSD 2-Clause License. See LICENSE.md for more info.
 %
 % Args
 % AR        [X Y], for plot with aspect ratio X:Y
